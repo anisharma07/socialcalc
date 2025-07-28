@@ -1,0 +1,21 @@
+{
+  "name": "socialcalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formatnumber2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisharma07/socialcalc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anisharma07/socialcalc/issues"
+  },
+  "homepage": "https://github.com/anisharma07/socialcalc#readme"
+}
